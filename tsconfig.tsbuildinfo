@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/nginx/diagnostics.ts","./src/nginx/matcher.ts","./src/nginx/parser.ts","./src/nginx/types.ts","./src/App.vue","./src/components/DiagnosticsPanel.vue","./src/components/LocationTreeNode.vue","./src/components/MatchTrace.vue","./vite.config.ts"],"version":"5.6.3"}
